@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Notes Application made using React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic Application that allows users to write in Markdown, view Preview, and keep an organized list of notes saved in local storage.
 
 ## Available Scripts
 
