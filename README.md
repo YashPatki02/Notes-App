@@ -2,6 +2,8 @@
 
 Basic Application that allows users to write in Markdown, view Preview, and keep an organized list of notes saved in local storage.
 
+[Website Demo](https://gorgeous-medovik-765aa9.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
